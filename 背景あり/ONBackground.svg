@@ -15,8 +15,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="NagoyaBuiginersLT.svg"
-   inkscape:export-filename="/Users/reno.89m/Desktop/NagoyaBuiginersLT.png"
+   sodipodi:docname="ONBackground.svg"
+   inkscape:export-filename="/Users/reno.89m/git/NagoyaBeginnersLT_Logo/背景あり/NoBackGround.png"
    inkscape:export-xdpi="245.561"
    inkscape:export-ydpi="245.561">
   <defs
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
